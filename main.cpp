@@ -3,9 +3,9 @@
 
 int main()
 {
-	Fraction ratio1;
-	ratio1.input();
-	ratio1.output();
+    Fraction ratio1;
+    ratio1.input();
+    ratio1.output();
 
-	return 0;
+    return 0;
 }
